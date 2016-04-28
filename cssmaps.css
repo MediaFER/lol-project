@@ -1,0 +1,27 @@
+body {
+	background-color: #333;
+	color: #FAFAFA;
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+.header {
+	background-image: url(https://upload.wikimedia.org/wikipedia/en/7/77/League_of_Legends_logo.png);
+	width: 502px;
+	height: 192px;
+	display: block;
+	margin: 0 auto;
+	margin-top: 70px;
+}
+
+.news-container {
+	color:#000;
+	background-color: green;
+}
+
+.menu li a {
+	color: inherit;
+}
+
+.maps{
+	text-align: right;
+}
